@@ -1,5 +1,5 @@
 {
-  "name": "silverstripers/gradify",
+  "name": "toastnz/gradify",
   "description": "Gradify php implementation SilverStirpe",
   "type": "silverstripe-module",
   "keywords": ["silverstripe", "images", "gradify"],
