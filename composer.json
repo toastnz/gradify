@@ -2,7 +2,11 @@
   "name": "toastnz/gradify",
   "description": "Gradify php implementation SilverStirpe",
   "type": "silverstripe-module",
-  "keywords": ["silverstripe", "images", "gradify"],
+  "keywords": [
+    "silverstripe",
+    "images",
+    "gradify"
+  ],
   "authors": [
     {
       "name": "Nivanka Fonseka",
@@ -10,7 +14,8 @@
     }
   ],
   "require": {
-    "silverstripe/framework"        : "3.*"
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
   },
   "extra": {
     "installer-name": "gradify"
